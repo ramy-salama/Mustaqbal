@@ -135,7 +135,7 @@ body.e {
 
 @media screen and (max-width: 600px) {
     .menu {
-        font-size: .8em;
+        font-size: .6em;
         left: 10px;
     }
 } 
