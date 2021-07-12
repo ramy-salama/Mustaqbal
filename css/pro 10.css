@@ -102,11 +102,7 @@ body.e {
     animation: strok 1.5s reverse;
 }
 
-/* @media screen and (max-width: 500px) {
-    body.a, .b, .c, .d, .e{
-        height: 70vh;
-    }
-} */
+
 @keyframes strok {
     100% {
         stroke-dashoffset: 400;
