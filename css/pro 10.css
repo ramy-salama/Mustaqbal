@@ -113,6 +113,13 @@ body.e {
     body.c{
         background-image: url("img/m3.jpg");
     }
+    body.d{
+        background-image: url("img/m4.jpg");
+    }
+    
+    body.e{
+        background-image: url("img/m5.jpg");
+    }
 }
 @keyframes strok {
     100% {
