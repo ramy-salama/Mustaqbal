@@ -26,7 +26,7 @@ body.b {
     background-image: url("img/22.jpg");
 }
 body.c {
-    background-image: url("img/3.jpg");
+    background-image: url("img/33.jpg");
 }
 body.d {
     background-image: url("img/4.jpg");
@@ -103,11 +103,15 @@ body.e {
 }
 
 @media screen and (max-width: 500px) {
-    body.b{
-        background-image: url("img/2.jpg");
-    }
     body.a{
-        background-image: url("img/1.jpg");
+        background-image: url("img/m1.jpg");
+    }
+    body.b{
+        background-image: url("img/m2.jpg");
+    }
+    
+    body.c{
+        background-image: url("img/m3.jpg");
     }
 }
 @keyframes strok {
