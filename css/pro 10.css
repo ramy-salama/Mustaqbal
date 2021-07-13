@@ -16,17 +16,17 @@ body.a, .b, .c, .d, .e {
     height: 100vh;
     overflow: hidden;
     align-items: center;
-    background-image: url("img/11.jpg");
+    background-image: url("img/1.jpg");
     background-size: cover;
     justify-content: center;
     background-repeat : no-repeat;
 }
 
 body.b {
-    background-image: url("img/22.jpg");
+    background-image: url("img/2.jpg");
 }
 body.c {
-    background-image: url("img/33.jpg");
+    background-image: url("img/3.jpg");
 }
 body.d {
     background-image: url("img/4.jpg");
